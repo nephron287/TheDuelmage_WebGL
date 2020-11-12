@@ -1,0 +1,16 @@
+{
+"companyName": "TheDuelMage.com",
+"productName": "TheDuelMage.com",
+"productVersion": "0.1",
+"dataUrl": "_Build_WebGL.data.unityweb",
+"wasmCodeUrl": "_Build_WebGL.wasm.code.unityweb",
+"wasmFrameworkUrl": "_Build_WebGL.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": true,
+"multithreading": false,
+"unityVersion": "2019.4.3f1"
+}
